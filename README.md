@@ -169,7 +169,7 @@ Time ranges in terms of hours are given to provide a buffer room in case any une
 * Minimum hours: 24 ($2760-USD)
 * Maximum hours: 43 ($4945-USD)
 * Note: given work hours do not factor in The Graph integration, or ERC-1155 integration. ERC-1155 integration would probably add another 5 -> 10 hours to data collector development, and 1 or 2 hours to database tooling.
-* Payment method: Due to volatile market prices stablecoins are preferred (preferrence order: DAI -> USDC -> USDT) but ETH is acceptable. If payment is done outside of stablecoins or ETH it must be in an **extremely liquid** asset along with a 15% premium to account for transaction fees, market volatility, etc...
+* Payment method: Due to volatile market prices stablecoins are preferred (preferrence order: DAI -> USDC -> USDT) but ETH is acceptable. If payment is done outside of stablecoins or ETH it must be in an **extremely liquid** asset along with a 15% premium to account for transaction fees, market volatility, etc... The asset must also be decided upon before grant work is started.
 
 # Misc Comments/Questions
 
